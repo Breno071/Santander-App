@@ -1,2 +1,2 @@
-Aplicativo do Santander Desenvolvido por mim mesmo
+#Aplicativo do Santander Desenvolvido em parceria com a Digital Innovation One
 
